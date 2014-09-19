@@ -1,4 +1,4 @@
 Pod Bay
 ---
 
-About the project
+About THE project
